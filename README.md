@@ -5,7 +5,7 @@
 <h1 align="center">Hey👋, I'm Rounak Singh</h1>
 <h3 align="center">Blending software engineering and machine learning to build intelligent, scalable solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
 
 - 🔭 Building **AI-powered applications and high-performance web systems**
 
