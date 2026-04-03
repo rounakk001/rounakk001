@@ -2,7 +2,9 @@
 
 ![logo](https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif)
 
-<h1 align="center">Hey👋, I'm Rounak Singh</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Rounak+Singh;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Cool+Stuff+🚀" />
+</h1>
 <h3 align="center">Blending software engineering and machine learning to build intelligent, scalable solutions</h3>
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
