@@ -1,15 +1,16 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
