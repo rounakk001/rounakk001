@@ -1,6 +1,13 @@
 
 
-![logo](https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif)
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif"
+    width="100%"
+    height="300"
+    style="object-fit: cover;"
+  />
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Rounak+Singh;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Cool+Stuff+🚀" />
