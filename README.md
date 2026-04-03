@@ -37,3 +37,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rounakk001&" alt="rounakk001" /></p>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rounakk001/rounakk001/output/github-contribution-grid-snake.svg" />
+</p>
