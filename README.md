@@ -41,13 +41,13 @@
 </td>
 
 <td>
-<a href="https://instagram.com/https://www.instagram.com/rounaksingh____/" target="blank">
+<a href="https://www.instagram.com/rounaksingh____/" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </td>
 
 <td>
-<a href="https://www.leetcode.com/https://leetcode.com/u/m20b9gf0s6/" target="blank">
+<a href="https://leetcode.com/u/M20B9Gf0S6/" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 </td>
